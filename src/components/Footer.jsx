@@ -1,7 +1,8 @@
-const GITHUB_USERNAME = "imrajat-sharma";
-const GITHUB_REPO = "cpu-scheduler";
+const GITHUB_USERNAME = "imrajat_sharma";
+const GITHUB_REPO = "cpu-scheduler-visualizer";
 const LINKEDIN_USERNAME = "imrajat-sharma";
 const TWITTER_USERNAME = "imrajat-sharma";
+
 
 export default function Footer() {
   return (
